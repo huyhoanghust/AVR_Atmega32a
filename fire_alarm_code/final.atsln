@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "tb2", "final\tb2.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UART_Send", "..\..\báo cáo\UART_send\UART_Send\UART_Send.cproj", "{0E2328DA-E322-4F5C-A1D3-27B6E95874BA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Uart_recieve", "..\..\báo cáo\UART_recieve\Uart_recieve\Uart_recieve.cproj", "{3A791687-1E6C-4682-A667-99F3E7392804}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lcd_test", "..\..\báo cáo\lcd_test\lcd_test\lcd_test.cproj", "{0AD52FAF-1194-4A46-A46E-52E15999BAEF}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC", "..\..\báo cáo\ADC\ADC\ADC.cproj", "{A04AAC8B-D897-43AE-A84C-EEE35E8A3D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{0E2328DA-E322-4F5C-A1D3-27B6E95874BA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0E2328DA-E322-4F5C-A1D3-27B6E95874BA}.Debug|AVR.Build.0 = Debug|AVR
+		{0E2328DA-E322-4F5C-A1D3-27B6E95874BA}.Release|AVR.ActiveCfg = Release|AVR
+		{0E2328DA-E322-4F5C-A1D3-27B6E95874BA}.Release|AVR.Build.0 = Release|AVR
+		{3A791687-1E6C-4682-A667-99F3E7392804}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3A791687-1E6C-4682-A667-99F3E7392804}.Debug|AVR.Build.0 = Debug|AVR
+		{3A791687-1E6C-4682-A667-99F3E7392804}.Release|AVR.ActiveCfg = Release|AVR
+		{3A791687-1E6C-4682-A667-99F3E7392804}.Release|AVR.Build.0 = Release|AVR
+		{0AD52FAF-1194-4A46-A46E-52E15999BAEF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0AD52FAF-1194-4A46-A46E-52E15999BAEF}.Debug|AVR.Build.0 = Debug|AVR
+		{0AD52FAF-1194-4A46-A46E-52E15999BAEF}.Release|AVR.ActiveCfg = Release|AVR
+		{0AD52FAF-1194-4A46-A46E-52E15999BAEF}.Release|AVR.Build.0 = Release|AVR
+		{A04AAC8B-D897-43AE-A84C-EEE35E8A3D96}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A04AAC8B-D897-43AE-A84C-EEE35E8A3D96}.Debug|AVR.Build.0 = Debug|AVR
+		{A04AAC8B-D897-43AE-A84C-EEE35E8A3D96}.Release|AVR.ActiveCfg = Release|AVR
+		{A04AAC8B-D897-43AE-A84C-EEE35E8A3D96}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

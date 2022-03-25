@@ -1,0 +1,7 @@
+Các phần quan trọng trên mạch ATMEGA
+1. Phần nguồn : IC LM7805
+2. Phần nguồn ADC : thêm tụ 100nF, cuộn cảm 10uF
+3. Phần giao động : thạch anh
+4. Mạch reset.
+5. Phần mạch nạp code ISP. 
+6. Phần Debug mạch : Uart  
